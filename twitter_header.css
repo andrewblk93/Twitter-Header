@@ -1,0 +1,9 @@
+body (
+	background: black;
+	overflow: hidden; 
+)
+
+p {
+	background: url("https://github.com/andrewblk93/Twitter-Header/blob/main/IMG_8049.jpeg");
+	background-repeat: no-repeat; 
+	background-position: center;
